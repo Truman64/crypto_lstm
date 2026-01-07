@@ -6,7 +6,7 @@ The project is structured for clarity and maintainability, with proper separatio
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Load and preprocess historical cryptocurrency data from PostgreSQL.
 - Feature engineering and scaling for LSTM input.
@@ -20,29 +20,13 @@ The project is structured for clarity and maintainability, with proper separatio
 
 ---
 
-## 📂 Project Structure
-
-crypto_lstm_project/
-├── data/ # Store raw or processed CSV datasets
-├── notebooks/ # Optional Jupyter notebooks for exploration
-├── src/
-│ ├── data_loader.py # Load crypto data from PostgreSQL
-│ ├── dataset.py # PyTorch Dataset class for sequence preparation
-│ ├── model.py # LSTM model definition
-│ ├── train.py # Training loop with optimizer and loss
-│ ├── evaluate.py # Evaluate model on test set
-│ └── utils.py # Helper functions (e.g., scalers, sequence creation)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
 
 ---
 
-## ⚙️ Installation
+##   Installation
 
 1. **Clone the repository**
-
-```bash
+ 
 git clone https://github.com/your-username/crypto-lstm-project.git
 cd crypto-lstm-project
 
