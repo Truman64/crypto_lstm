@@ -2,7 +2,7 @@
 
 This project demonstrates a simple **LSTM-based deep learning model** for predicting short-term cryptocurrency price movements. The model uses historical crypto data and technical features to classify whether a coin’s price will move by at least 0.05% within 15 minutes.  
 
-The project is structured for clarity and maintainability, with proper separation of data loading, preprocessing, model definition, training, and evaluation. It is suitable for **recruiters or hiring managers** to quickly understand your skills in **Python, PyTorch, time-series modeling, and ML project organization**.
+The project is structured for clarity and maintainability, with proper separation of data loading, preprocessing, model definition, training, and evaluation. 
 
 ---
 
